@@ -1,6 +1,6 @@
 # aplicativo_jokenpo
 
-A new Flutter application.
+Meu Primeiro programa em DART
 
 ## Getting Started
 
